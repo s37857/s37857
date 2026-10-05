@@ -1,5 +1,5 @@
 public class Subtractor{
-  static int subtractor(int x,int y){
+  static int subtract(int x,int y){
     return x-y;
   }
 }
